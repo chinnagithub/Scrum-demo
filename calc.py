@@ -1,7 +1,7 @@
 def add(x,y):
 	return
 def sub(x,y):
-	pass
+	return x-y
 def mul(x,y):
 	pass
 
